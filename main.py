@@ -1,8 +1,8 @@
 import requests
+from config import my_key
 
+API_KEY = my_key
 
-API_KEY = "263fc241"
-#API_KEY = "mykey"
 URL = "https://www.omdbapi.com"
 
 
