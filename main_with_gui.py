@@ -2,9 +2,9 @@ import requests
 import pygame
 import sys
 from io import BytesIO
+from config import my_key
 
-
-API_KEY = "263fc241"
+API_KEY = my_key
 URL = "https://www.omdbapi.com"
 
 
