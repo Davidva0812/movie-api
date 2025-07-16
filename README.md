@@ -30,6 +30,10 @@ To install the required dependencies, run:
 pip install pygame requests
 ```
 
+## **Screenshots**
+![screenshot](screenshots/light_mode.png)
+![screenshot](screenshots/dark_mode.png)
+
 ## **Example output**
 Title: Inception
 Year: 2010
